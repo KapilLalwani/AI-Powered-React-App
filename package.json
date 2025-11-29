@@ -22,7 +22,6 @@
    "scripts": {
       "dev": "bun run index.ts",
       "format": "prettier --write .",
-      "format 2": "prettier --write .",
       "prepare": "husky"
    }
 }
